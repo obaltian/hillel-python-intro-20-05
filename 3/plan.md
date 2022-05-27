@@ -1,11 +1,10 @@
 # Plan
-1. Homework review 
+1. Homework review
 2. Conditional operators
     1. If (talk about identation blocks, pep8, namespaces)
     2. Else
     3. Elif (talk about rationale - avoid nesting)
     4. Ternary operator (example in C, rationale)
-    5. LBYL (spoiler EAFP)
 3. Loop operators
     1. While loop
         1. Remember to update condition to avoid infinite loop
@@ -16,5 +15,3 @@
     3. range object
     4. Break
     5. Continue
-    6. Else
-    7. Optional - iter, next
