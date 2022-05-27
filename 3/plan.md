@@ -12,8 +12,9 @@
         2. Iteration term
     2. For loop
         1. Iterable object
-        2. With variable or _
-    3. Break
-    4. Continue
-    5. Else
-    6. Optional - iter, next
+        2. _ var name convention
+    3. range object
+    4. Break
+    5. Continue
+    6. Else
+    7. Optional - iter, next
