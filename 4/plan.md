@@ -8,17 +8,3 @@
 5. str - iterable, indexable, immutable sequence (optionally iter, next).
 6. indexing, slicing.
 7. str functions and methods (show danger of eval function)
-
-
-
-
-
-
-
-number = int(input("Enter ..."))
-
-user_input = input("....")
-if user_input:
-    do something
-else:
-    exit("bye")
