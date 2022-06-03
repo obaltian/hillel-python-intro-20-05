@@ -6,7 +6,7 @@
     - random
     - uniform
 2. why do we need various data structures?
-2. list:
+3. list:
     - pros - indexing, guaranteed order
     - cons - long insertions in the middle and search
     - operations:
@@ -15,7 +15,3 @@
         - max/min/sum/all/any/sorted
     - methods:
         - append/extend/insert/pop/clear/copy/sort
-    - list comprehensions
-3. tuple:
-    - difference from list - immutable
-    - syntax - only comma required
