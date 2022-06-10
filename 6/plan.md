@@ -7,6 +7,3 @@
     2. operations - https://docs.python.org/3.9/library/stdtypes.html#set-types-set-frozenset
     3. frozenset
     4. comprehensions
-5. dict:
-    1. operations - https://docs.python.org/3.9/library/stdtypes.html#set-types-set-frozenset
-    2. comprehensions
